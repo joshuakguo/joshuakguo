@@ -1,4 +1,7 @@
-### Hi there 👋
+### Howdy! 👋
+
+I am a junior at Cornell University studying Computer Science. I'm currently sharpening my skills as a frontend and mobile engineer.<br>
+Check out my [website](https://www.joshuaguo.com) for more!
 
 <!--
 **joshuakguo/joshuakguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
