@@ -1,6 +1,6 @@
 ### Howdy! 👋
 
-I am a senior at Cornell University studying Computer Science. I'm currently sharpening my skills as a software engineer.<br>
+I am a recent Cornell University grad that studied Computer Science and Game Design. I'm currently sharpening my skills as a software engineer.<br>
 Check out my [website](https://www.joshuaguo.com) for more!
 
 <!--
