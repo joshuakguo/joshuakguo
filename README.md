@@ -1,7 +1,7 @@
 ### Howdy! 👋
 
-I am a recent Cornell University grad that studied Computer Science and Game Design. I'm currently at AWS.<br>
-Check out my [website](https://www.joshuaguo.com) for more!
+I am a Cornell University grad that studied Computer Science and Game Design.<br>
+I'm currently at AWS.<br>
 
 <!--
 **joshuakguo/joshuakguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
